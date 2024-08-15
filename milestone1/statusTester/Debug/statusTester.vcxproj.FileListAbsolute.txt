@@ -1,0 +1,2 @@
+C:\Users\pglen\OneDrive\Desktop\oop\milestone1\statusTester\Debug\statusTester.exe
+C:\Users\pglen\OneDrive\Desktop\oop\milestone1\statusTester\Debug\statusTester.pdb
